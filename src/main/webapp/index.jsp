@@ -63,9 +63,9 @@
 </head>
 <body>
     <div class="container">
-        <img src="https://via.placeholder.com/400x300" alt="Movie Date">
+        <img src="https://via.placeholder.com/400x300" alt="Shall we go a Date ?">
         <h1>Wanna Catch a Flick?</h1>
-        <p>Let's hit the cinema and watch the latest blockbuster! 🎬🍿</p>
+        <p>Let's hit the cinema and watch the latest blockbuster!</p>
         <div class="buttons">
             <button class="yes-button">Heck Yeah!</button>
             <button class="no-button">Nope!</button>
