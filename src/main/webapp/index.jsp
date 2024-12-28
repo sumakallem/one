@@ -44,11 +44,10 @@
 </head>
 <body>
     <div class="poster">
-        <h1>Hey You!</h1>
-        <p>How about we make our own rom-com moment?</p>
-        <p>Join me for a movie date this weekend!</p>
-        <p>We can grab some ice cream, go for a ride,</p> 
-           <p> and enjoy the sunset together.</p>
+        <h1>Hey Idiot!</h1>
+        <p>How about a date with your secret-santa ?</p>
+        <p>Wanna join for a movie date tomorrow!</p>
+        <p>Can grab some ice cream, go for a ride, and enjoy the sunset together.</p> 
         <a href="#" class="button">Say Yes!</a>
     </div>
 </body>
