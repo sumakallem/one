@@ -47,8 +47,8 @@
         <h1>Hey You!</h1>
         <p>How about we make our own rom-com moment?</p>
         <p>Join me for a movie date this weekend!</p>
-        <p>And how about a long ride afterwards?</p>
-        <p>We can grab some ice cream, listen to our favorite songs, and enjoy the sunset together. 🌅🍦🎶</p>
+        <p>We can grab some ice cream, go for a ride,</p> 
+           <p> and enjoy the sunset together.</p>
         <a href="#" class="button">Say Yes!</a>
     </div>
 </body>
