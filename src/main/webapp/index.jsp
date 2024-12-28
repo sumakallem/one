@@ -7,22 +7,22 @@
     <style>
         body {
             font-family: 'Comic Sans MS', cursive, sans-serif;
-            background: linear-gradient(to right, #ffecd2, #fcb69f);
+            background: linear-gradient(to right, #a1c4fd, #c2e9fb);
             text-align: center;
             padding: 50px;
         }
         .poster {
-            background: linear-gradient(to right, #ff9a9e, #fad0c4);
-            border: 3px solid #ff6f61;
+            background: linear-gradient(to right, #fbc2eb, #a6c1ee);
+            border: 3px solid #6a0572;
             border-radius: 15px;
             padding: 30px;
             box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
             display: inline-block;
         }
         h1 {
-            color: #ff6f61;
+            color: #6a0572;
             font-size: 3.5em;
-            text-shadow: 2px 2px #ffb6c1;
+            text-shadow: 2px 2px #d4a5a5;
         }
         p {
             color: #2e8b57;
