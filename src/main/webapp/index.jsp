@@ -3,69 +3,51 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Movie Date</title>
+    <title>Movie Date Invitation</title>
     <style>
-        @import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
-
         body {
+            background: linear-gradient(to right, #ff9a9e, #fad0c4);
+            font-family: 'Comic Sans MS', cursive, sans-serif;
             display: flex;
             justify-content: center;
             align-items: center;
             height: 100vh;
-            background: linear-gradient(135deg, #ff9a9e 0%, #fad0c4 100%);
             margin: 0;
         }
-        .container {
-            text-align: center;
+        .poster {
             background-color: #fff;
             padding: 20px;
-            border-radius: 10px;
-            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            border-radius: 15px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+            text-align: center;
         }
         h1 {
-            font-family: 'Pacifico', cursive;
-            color: #ff6347; /* Tomato */
+            color: #ff6f61;
+            font-size: 3em;
         }
         p {
-            font-family: 'Pacifico', cursive;
-            color: #4682b4; /* SteelBlue */
+            color: #333;
+            font-size: 1.5em;
         }
-        .buttons {
-            margin-top: 20px;
-        }
-        .buttons button {
-            font-family: 'Pacifico', cursive;
+        .button {
+            background-color: #ff6f61;
+            color: white;
             padding: 10px 20px;
-            margin: 5px;
-            border: none;
+            text-decoration: none;
             border-radius: 5px;
-            cursor: pointer;
-            transition: background-color 0.3s ease;
+            font-size: 1.2em;
         }
-        .yes-button {
-            background-color: #4CAF50; /* Green */
-            color: white;
-        }
-        .yes-button:hover {
-            background-color: #45a049;
-        }
-        .no-button {
-            background-color: #f44336; /* Red */
-            color: white;
-        }
-        .no-button:hover {
-            background-color: #e53935;
+        .button:hover {
+            background-color: #ff3b30;
         }
     </style>
 </head>
 <body>
-    <div class="container">
-        <h1>Wanna Catch a Flick?</h1>
-        <p>Let's hit the cinema and watch the latest blockbuster!</p>
-        <div class="buttons">
-            <button class="yes-button">Heck Yeah!</button>
-            <button class="no-button">Nope!</button>
-        </div>
+    <div class="poster">
+        <h1>Hey You!</h1>
+        <p>How about we make our own rom-com moment?</p>
+        <p>Join me for a movie date this weekend!</p>
+        <a href="#" class="button">Say Yes!</a>
     </div>
 </body>
 </html>
