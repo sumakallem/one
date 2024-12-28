@@ -3,52 +3,38 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Movie Date Invitation</title>
+    <title>Happy Birthday!</title>
     <style>
         body {
-            background: linear-gradient(to right, #ff9a9e, #fad0c4);
             font-family: 'Comic Sans MS', cursive, sans-serif;
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            height: 100vh;
-            margin: 0;
+            background: linear-gradient(to right, #ffecd2, #fcb69f);
+            text-align: center;
+            padding: 50px;
         }
         .poster {
-            background-color: #fff;
-            padding: 20px;
+            background: linear-gradient(to right, #ff9a9e, #fad0c4);
+            border: 3px solid #ff6f61;
             border-radius: 15px;
-            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
-            text-align: center;
+            padding: 30px;
+            box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
+            display: inline-block;
         }
         h1 {
             color: #ff6f61;
-            font-size: 3em;
+            font-size: 3.5em;
+            text-shadow: 2px 2px #ffb6c1;
         }
         p {
-            color: #333;
-            font-size: 1.5em;
-        }
-        .button {
-            background-color: #ff6f61;
-            color: white;
-            padding: 10px 20px;
-            text-decoration: none;
-            border-radius: 5px;
-            font-size: 1.2em;
-        }
-        .button:hover {
-            background-color: #ff3b30;
+            color: #2e8b57;
+            font-size: 1.8em;
+            text-shadow: 1px 1px #98fb98;
         }
     </style>
 </head>
 <body>
     <div class="poster">
-        <h1>Hey Idiot!</h1>
-        <p>How about a date with your secret-santa ?</p>
-        <p>Wanna join for a movie date tomorrow!</p>
-        <p>Can grab some ice cream, go for a ride, and enjoy the sunset together.</p> 
-        <a href="#" class="button">Say Yes!</a>
+        <h1>Happy Birthday!</h1>
+        <p>Wishing you a day filled with love, joy, and all your favorite things. Have a fantastic birthday!</p>
     </div>
 </body>
 </html>
